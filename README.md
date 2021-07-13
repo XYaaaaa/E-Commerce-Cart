@@ -4,7 +4,7 @@ This project allows people shopping at a website that sells PlayStation games
 
 In the project directory, you can run:
 
-<font size=5 >npm run dev</font>
+<font size=10 >npm run dev</font>
 
 Here is the demo of this project:
 
