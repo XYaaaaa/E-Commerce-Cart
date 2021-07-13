@@ -1,5 +1,5 @@
 # E-Commerce-Cart(PlayStation Games Focus)
-This is a MERN(MongoDB, Express, React, Node.js) full stack e-commerce-cart project.
+This is a MERN(MongoDB, Express, React.js/Redux, Node.js) full stack e-commerce-cart project.
 This project allows people shopping at a website that sells PlayStation games
 
 In the project directory, you can run:
