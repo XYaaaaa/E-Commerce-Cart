@@ -10,7 +10,7 @@ const CartItem = ({item, qtyChangeHandler, removeHandler}) => {
         </div>
 
         <Link  to={`/product/${item.product}`} className="cartItem__name">
-            <p>Product 1</p>
+            <p>{item.name}</p>
         </Link>
 
         <p className="cartItem__price">{item.price}</p>

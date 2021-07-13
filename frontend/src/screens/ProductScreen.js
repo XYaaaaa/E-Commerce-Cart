@@ -3,7 +3,7 @@ import { useState,useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { getProductDetails } from '../redux/actions/productActions';
 import { addToCart} from '../redux/actions/cartActions';
-import { ADD_TO_CART } from '../redux/constants/cartConstants';
+
 
 const ProductScreen = ({match, history}) => {
 

@@ -18,7 +18,7 @@ const Navbar = ({click}) =>{
             <Link to="/">
             <div className = "navbar__logo">
                 
-                <h1 className= 'title'> MERN Shopping Cart </h1>
+                <h1 className= 'title'> PlayStation Games Shopping Cart </h1>
             
             </div>
             </Link>

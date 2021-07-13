@@ -1,3 +1,5 @@
+//Data import script
+
 require('dotenv').config();
 
 const productsData = require('./data/products');
